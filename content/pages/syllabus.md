@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 397a97bf-4c76-04e7-9836-067e5723d8e2
 ---
@@ -32,7 +34,7 @@ The grade will be decided based on the results of two quizzes and final exam. Th
 {{< thopen >}}
 activities
 {{< thclose >}}
-{{< thopen >}}
+{{< thopen colspan="2" >}}
 percentages
 {{< thclose >}}
 

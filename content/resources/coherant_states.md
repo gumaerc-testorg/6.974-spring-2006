@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/f9451ad8f42971a29aea85ca277bcd02_coherant_states.pdf
+file: /media/courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/f9451ad8f42971a29aea85ca277bcd02_coherant_states.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: coherant_states.pdf
 uid: f9451ad8-f429-71a2-9aea-85ca277bcd02

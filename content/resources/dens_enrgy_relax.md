@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/9653a2c15ca612fbc9e205d21291baab_dens_enrgy_relax.pdf
+file: /media/courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/9653a2c15ca612fbc9e205d21291baab_dens_enrgy_relax.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: dens_enrgy_relax.pdf
 uid: 9653a2c1-5ca6-12fb-c9e2-05d21291baab

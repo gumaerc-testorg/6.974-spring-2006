@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource gives introduction on electronics and its application.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/460c9a11766b4679f83476bd26ff9fa4_chapter1.pdf
+file: /media/courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/460c9a11766b4679f83476bd26ff9fa4_chapter1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: chapter1.pdf
 uid: 460c9a11-766b-4679-f834-76bd26ff9fa4

@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/9817c9baafd71b0c65e8b62c388cafc8_q_swtch_mode_loc.pdf
+file: /media/courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/9817c9baafd71b0c65e8b62c388cafc8_q_swtch_mode_loc.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: q_swtch_mode_loc.pdf
 uid: 9817c9ba-afd7-1b0c-65e8-b62c388cafc8
