@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d631939e-d6b9-259b-8709-5c1a36b10de6
 resourcetype: Document
 title: dirac_frmal_hilb.pdf
 uid: b61289df-d604-dd86-6233-09a474d43f59

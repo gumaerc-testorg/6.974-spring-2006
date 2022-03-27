@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d631939e-d6b9-259b-8709-5c1a36b10de6
 resourcetype: Document
 title: laser.pdf
 uid: fe5ea9d3-81e0-ddf2-5248-e4057d8c5de3

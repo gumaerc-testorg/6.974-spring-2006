@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d631939e-d6b9-259b-8709-5c1a36b10de6
 resourcetype: Document
 title: homo_nonhomo_br.pdf
 uid: 6135a85d-75be-96fb-5a55-6b3f879b0d8c
