@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/575470ae5ba3cafa4fd36e35b0d29e17_harmonic_oscil.pdf
+file: /courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/575470ae5ba3cafa4fd36e35b0d29e17_harmonic_oscil.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/871c32e6e4a44cbb1546741ef06f0f2f_parax_wav_eq_gau.pdf
+file: /courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/871c32e6e4a44cbb1546741ef06f0f2f_parax_wav_eq_gau.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

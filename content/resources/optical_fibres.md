@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/fb095f719b1e2239974fddca264f80d9_optical_fibres.pdf
+file: /courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/fb095f719b1e2239974fddca264f80d9_optical_fibres.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

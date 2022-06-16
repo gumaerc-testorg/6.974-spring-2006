@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Collection of lecture notes from the course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -31,7 +32,7 @@ LECTURE NOTES
 Introduction
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/chapter1))
+({{% resource_link 460c9a11-766b-4679-f834-76bd26ff9fa4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +68,7 @@ Anisotropic Media: Crystal Optics and Polarization
 
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.5 MB]({{< baseurl >}}/resources/chapter2))
+({{% resource_link 8e54d162-5e9e-71eb-5b4e-4998e6967e4e "PDF - 2.5 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -79,7 +80,7 @@ Anisotropic Media: Crystal Optics and Polarization
 Quantum Nature of Light and Matter
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/chapter3))
+({{% resource_link e8cb22a8-151e-597f-1ac5-e406ec5071b7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -95,7 +96,7 @@ Harmonic Oscillator and Hydrogen Atom
 Wave Mechanics
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/chapter4))
+({{% resource_link 235adf96-2a3e-f477-2b2f-494261e00d4b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -111,7 +112,7 @@ Harmonic Oscillator Revisited
 Coherent States
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/chapter5))
+({{% resource_link f969fa77-c304-4b73-02db-8405e349c8c0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -127,7 +128,7 @@ Density Matrix, Energy and Phase Relaxation
 Rate Equations, Dispersion, Absorption and Gain
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/chapter6))
+({{% resource_link 2641db64-31ea-7098-9c29-e8512d5d91a7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -145,7 +146,7 @@ Q-Switching and Mode Locking
 Electro- and Acousto-Optic Modulation
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/chapter7))
+({{% resource_link 18f30fad-63a6-2ef4-dd89-4d3752b55a60 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

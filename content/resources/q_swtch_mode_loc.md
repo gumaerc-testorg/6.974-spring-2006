@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/9817c9baafd71b0c65e8b62c388cafc8_q_swtch_mode_loc.pdf
+file: /courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/9817c9baafd71b0c65e8b62c388cafc8_q_swtch_mode_loc.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
