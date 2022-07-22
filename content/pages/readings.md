@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: Required, recommended, and additional texts.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 9de571c7-b4d9-964b-f04d-031509b5caf8
 ---
@@ -7,7 +11,7 @@ uid: 9de571c7-b4d9-964b-f04d-031509b5caf8
 Required Text
 -------------
 
-Class notes, available in the [lecture notes]({{< baseurl >}}/pages/lecture-notes) section.
+Class notes, available in the {{% resource_link d631939e-d6b9-259b-8709-5c1a36b10de6 "lecture notes" %}} section.
 
 Recommended Texts
 -----------------

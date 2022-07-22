@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: Information about the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 397a97bf-4c76-04e7-9836-067e5723d8e2
 ---
@@ -14,7 +17,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 Prerequisites
 -------------
 
-[6.003](/courses/6-003-signals-and-systems-fall-2011/), [6.013](/courses/6-013-electromagnetics-and-applications-fall-2005) or [8.07](/courses/8-07-electromagnetism-ii-fall-2012).
+[6.003](/courses/6-003-signals-and-systems-fall-2011), [6.013](/courses/6-013-electromagnetics-and-applications-fall-2005) or [8.07](/courses/8-07-electromagnetism-ii-fall-2012).
 
 Requirements
 ------------
@@ -32,7 +35,7 @@ The grade will be decided based on the results of two quizzes and final exam. Th
 {{< thopen >}}
 activities
 {{< thclose >}}
-{{< thopen >}}
+{{< thopen colspan="2" >}}
 percentages
 {{< thclose >}}
 
