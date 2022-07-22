@@ -6,6 +6,7 @@ file: /courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/5
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: quiz1.pdf
 uid: 53ae1c46-8766-cda2-c085-543460f94325
 ---
 This resource contains problems on susceptibility and absorption, pulse propagation, group and phase velocity, and reflection of em-waves at interfaces.
-

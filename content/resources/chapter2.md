@@ -7,6 +7,7 @@ file: /courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/8
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: chapter2.pdf
 uid: 8e54d162-5e9e-71eb-5b4e-4998e6967e4e
 ---
 This resource gives information on maxwell equationa of isotropic media,  helmholtz equation, tem-waves and tem-transmission lines, resonators, waveguides and integrated optics, and ordinary wave.
-

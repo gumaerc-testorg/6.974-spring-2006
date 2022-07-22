@@ -6,6 +6,7 @@ file: /courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: chapter3.pdf
 uid: e8cb22a8-151e-597f-1ac5-e406ec5071b7
 ---
 This resource gives information on black body radiation, rayleigh-jeans-law, wien's law, planck's law, mode counting, and photo electric effect.
-

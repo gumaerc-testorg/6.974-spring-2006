@@ -6,6 +6,7 @@ file: /courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/8
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: final_exam.pdf
 uid: 846b76ab-d92e-e18c-2223-c6a57844622f
 ---
 This resource contains problems on fabry-perot filter, abcd matrices, gaussian beams and resonators, and laser.
-

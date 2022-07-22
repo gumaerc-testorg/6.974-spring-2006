@@ -6,6 +6,7 @@ file: /courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: chapter4.pdf
 uid: 235adf96-2a3e-f477-2b2f-494261e00d4b
 ---
 This resource gives information on free motion, probability conservation and propability currents, stationary states, and the one-dimensional harmonic oscillator.
-

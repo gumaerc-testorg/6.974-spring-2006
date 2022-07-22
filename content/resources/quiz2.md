@@ -6,6 +6,7 @@ file: /courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/8
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: quiz2.pdf
 uid: 810495f8-e996-d292-673e-e9c9b24a9524
 ---
 This resource contains problems on gaussian beams and resonators, coupled waveguide modes, and Polarization of Light.
-
