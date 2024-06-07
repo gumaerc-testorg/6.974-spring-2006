@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/f9451ad8f42971a29aea85ca277bcd02_coherant_states.pdf
+file_size: 184862
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

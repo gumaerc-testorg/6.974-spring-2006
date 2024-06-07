@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/98fcc94d2216c26db424e294c28d459a_mirror_inter_thn.pdf
+file_size: 494659
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
