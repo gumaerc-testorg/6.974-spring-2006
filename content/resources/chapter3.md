@@ -3,6 +3,7 @@ content_type: resource
 description: This resource gives information on black body radiation, rayleigh-jeans-law,
   wien's law, planck's law, mode counting, and photo electric effect.
 file: /courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/e8cb22a8151e597f1ac5e406ec5071b7_chapter3.pdf
+file_size: 484592
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
