@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/871c32e6e4a44cbb1546741ef06f0f2f_parax_wav_eq_gau.pdf
+file: /ol-ocw-studio-app/courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/871c32e6e4a44cbb1546741ef06f0f2f_parax_wav_eq_gau.pdf
 file_size: 312311
 file_type: application/pdf
 learning_resource_types:

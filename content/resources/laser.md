@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/fe5ea9d381e0ddf25248e4057d8c5de3_laser.pdf
+file: /ol-ocw-studio-app/courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/fe5ea9d381e0ddf25248e4057d8c5de3_laser.pdf
 file_size: 387377
 file_type: application/pdf
 learning_resource_types:
