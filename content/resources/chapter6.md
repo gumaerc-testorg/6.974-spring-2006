@@ -3,7 +3,7 @@ content_type: resource
 description: This resource gives information on the two-level model, the atom-field
   interaction in dipole approximation, rabi-oscillations, the density operator, and
   dielectric susceptibility and saturation.
-file: /ol-ocw-studio-app/courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/2641db6431ea70989c29e8512d5d91a7_chapter6.pdf
+file: /courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/2641db6431ea70989c29e8512d5d91a7_chapter6.pdf
 file_size: 496770
 file_type: application/pdf
 learning_resource_types:

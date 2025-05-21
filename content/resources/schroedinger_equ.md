@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/e0753d33047f6f3ef9f8e3695f89e78e_schroedinger_equ.pdf
+file: /courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/e0753d33047f6f3ef9f8e3695f89e78e_schroedinger_equ.pdf
 file_size: 350778
 file_type: application/pdf
 learning_resource_types:
