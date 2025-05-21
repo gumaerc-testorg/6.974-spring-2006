@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/9653a2c15ca612fbc9e205d21291baab_dens_enrgy_relax.pdf
+file: /courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/9653a2c15ca612fbc9e205d21291baab_dens_enrgy_relax.pdf
 file_size: 250744
 file_type: application/pdf
 learning_resource_types:
