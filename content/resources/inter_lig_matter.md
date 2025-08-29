@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/d5288733649df15f5903633f51ad2dbd_inter_lig_matter.pdf
+file: /ol-ocw-studio-app/courses/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/d5288733649df15f5903633f51ad2dbd_inter_lig_matter.pdf
 file_size: 227989
 file_type: application/pdf
 learning_resource_types:
